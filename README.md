@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sane96
 - 👀 I’m interested in Web and Software Programming
 - 🌱 I’m currently learning Web Programming(JavaScript, advanced CSS, etc...)
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
