@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sane96
+- 👋 Hi, I’m Danilo Santrac
 - 👀 I’m interested in Web and Software Programming
 - 🌱 I’m currently learning Web Programming(JavaScript, advanced CSS, etc...)
 - 📫 How to reach me ...
